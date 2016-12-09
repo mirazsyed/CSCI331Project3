@@ -206,8 +206,8 @@ return 0;
 
 
 void menu(){
-
-
+    //cout will display message in terminal
+    //mount will print message to out.txt (SHARED_H)
     cout << "\n\nWhat would you like to do?" << endl << endl;
     mount << "\n\nWhat would you like to do?" << endl << endl;
 
